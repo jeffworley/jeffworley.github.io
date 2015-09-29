@@ -10,7 +10,7 @@
 - How do I plan to continue to adjust/improve my mindset moving forward?
 - How do I think that this will aid in my success here in the program?
 - Finally, what are some examples from my classmates of exhibiting a growth and positive mindset and how have I observed that helping them?
-- 
+
 ###### First Take Rough Draft:
 A little over a month ago now we were asked to do some research into a concept called the "growth mindset."  Once we felt like we had enough information on the subject we were asked to do some self reflection and write about where we felt we fell on the spectrum and why.  At that time I was pretty sure that I had a growth mindset and that I had long since left a fixed mindset behind.  After a month of taking part in this "boot camp" learning process, I think it right to stop and reflect on my initial reflection and self assessment.  Oh nooooooooo!!!!!! Not a relection inception!!!!!!!
 
