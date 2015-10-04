@@ -6,7 +6,7 @@
 ##### Points to Cover:
 > What is Pseudocode?
 
-Pseudocode is a detailed yet readable description of what a computer program or algorithm must do, expressed in natural language rather than in a programming language.
+Pseudocode is a detailed yet readable description of what a computer program or algorithm must do, expressed in natural language rather than in a programming language.  Or in simpler terms it is a step-by-step verbal outline of your code that you can gradually transcribe into programming language.
 
 > Why Pseudocode?
 
