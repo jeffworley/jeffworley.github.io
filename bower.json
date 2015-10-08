@@ -11,7 +11,7 @@
     "globals",
     "node"
   ],
-  "license": "MIT",
+  "license": "GPL",
   "private": true,
   "ignore": [
     "**/.*",
