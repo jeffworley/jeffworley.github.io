@@ -1,4 +1,4 @@
-### Rough Draft v2.0:
+### Final Draft:
 
 ##### What Should I Teach?
 * Git from the Command Line
@@ -34,3 +34,5 @@ Once you have created a branch, you then want to check it out so that you can be
 * Share our code (eventually).
 * Experiement without hurting the master (production).
 * Great for teams of teams working on different parts of the same project.
+* Lastly this is a great tool for displaying the work that you have been doing to others including potential employers.
+* 
