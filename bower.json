@@ -1,0 +1,29 @@
+{
+  "name": "jeffworley.github.io",
+  "version": "0.0.2",
+  "homepage": "https://github.com/jeffworley/jeffworley.github.io",
+  "authors": [
+    "jeffworley <sirwhirls@gmail.com>"
+  ],
+  "description": "jeffworley.github.io",
+  "main": "index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "modernizr": "~3.1.0",
+    "normalize-css": "normalize.css#~3.0.3",
+    "lodash": "~3.10.1"
+  }
+}

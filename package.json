@@ -1,0 +1,29 @@
+{
+  "name": "jeffworley.github.io",
+  "version": "0.0.2",
+  "description": "jeffworley.github.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "browser-sync start --server --startPath tests.html --files='js/*js'",
+    "bs": "browser-sync start --server --startPath='src/index.html' --files='src/*.html, src/css/*.css, src/js/*.js'",
+    "sass": "node-sass --output-style expanded src/scss/main.scss src/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffworley/jeffworley.github.io.git"
+  },
+  "author": "jeffworley (sirwhirls@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffworley/jeffworley.github.io/issues"
+  },
+  "homepage": "https://github.com/jeffworley/jeffworley.github.io#readme",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "gulp": "^3.9.0"
+  }
+}
